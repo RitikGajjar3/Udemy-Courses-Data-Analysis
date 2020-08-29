@@ -23,7 +23,9 @@ In this Mini Project we will analyse the Udemy Courses📚 Data.
 
 
 <h2>📦 Data Overview</h2>
+- There are 11 features in this Dataset.
 
+- course_id, course_title, is_paid, price, num_subscribers, num_reviews, num_lectures, level, content_duration, published_timestamp, subject 
 
 - e.g:  
 <p align="Center">
