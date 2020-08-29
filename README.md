@@ -20,8 +20,10 @@
 </p>
 
 <h2>📘 Problem statement:</h2>
+
 - In this Mini Project we will analyse the Udemy Courses📚 Data.
 
+<br>
 
 <h2>📦 Data Overview</h2>
 
@@ -29,6 +31,7 @@
 
 - course_id, course_title, is_paid, price, num_subscribers, num_reviews, num_lectures, level, content_duration, published_timestamp, subject 
 
+<br>
 
 ### ✅  Requirements
 
@@ -46,16 +49,22 @@ Jupyter notebook (IPython)
 2. Clone your copy on your local system
 3. Install necessary packages
 
+<br>
+
 ## 📚 Reference
 ```python
 Image("https://about.udemy.com/")
 ```
+
+<br>
 
 ## 📜 License
 
 This software is licensed under the [MIT](https://github.com/RitikGajjar3/Udemy-Courses-Data-Analysis/blob/master/LICENSE)
 
 MIT © RitikGajjar3
+
+<br>
 
 ## 🤝 Contact
 
