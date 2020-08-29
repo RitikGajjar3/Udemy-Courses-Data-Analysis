@@ -15,14 +15,16 @@
 </p>
 
 <p align="center">
+     <a href="https://about.udemy.com/">
   <img width="600" height="350" src="https://about.udemy.com/wp-content/uploads/2016/07/about-default.png">
 </p>
 
 <h2>📘 Problem statement:</h2>
-In this Mini Project we will analyse the Udemy Courses📚 Data.
+- In this Mini Project we will analyse the Udemy Courses📚 Data.
 
 
 <h2>📦 Data Overview</h2>
+
 - There are 11 features in this Dataset.
 
 - course_id, course_title, is_paid, price, num_subscribers, num_reviews, num_lectures, level, content_duration, published_timestamp, subject 
