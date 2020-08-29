@@ -27,27 +27,6 @@ In this Mini Project we will analyse the Udemy Courses📚 Data.
 
 - course_id, course_title, is_paid, price, num_subscribers, num_reviews, num_lectures, level, content_duration, published_timestamp, subject 
 
-- e.g:  
-<p align="Center">
-  
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/40620782/84025174-b71dba00-a9a8-11ea-9d0a-87bcc6611991.jpg">
-  <br>
-  Pikachu
-  <br>
-  <br>
-  
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/40620782/84025278-e59b9500-a9a8-11ea-845e-0d44f8ad8c2e.jpg">
-  <br>
-  Charmender
-  <br>
-  <br>
-  
-   <img width="200" height="200" src="https://user-images.githubusercontent.com/40620782/84025234-d3b9f200-a9a8-11ea-8172-d59996c5713a.jpg">
-   <br>
-   Bulbasaur
-
-</p>
-
 
 ### ✅  Requirements
 
